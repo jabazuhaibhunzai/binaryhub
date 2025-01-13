@@ -84,11 +84,11 @@ export const assets = {
 
 export const menu_list = [
   {
-    menu_name: "Mashroom",
+    menu_name: "Dental in Plants",
     menu_image: menu_1,
   },
   {
-    menu_name: "Garments",
+    menu_name: "Hard Crafts,Local Clothes",
     menu_image: menu_2,
   },
   {
@@ -96,7 +96,7 @@ export const menu_list = [
     menu_image: menu_3,
   },
   {
-    menu_name: "Vahicles",
+    menu_name: "Vahicles(spear parts)",
     menu_image: menu_4,
   },
   // {
@@ -112,7 +112,7 @@ export const menu_list = [
   //     menu_image: menu_7
   // },
   {
-    menu_name: "Dry Fruits",
+    menu_name: "Dry Fruits & Natural Herbs",
     menu_image: menu_8,
   },
 ];

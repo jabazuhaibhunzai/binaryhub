@@ -31,16 +31,19 @@ const Footer = () => {
             </ul>
         </div>
         <div className="footer-content-Right">
-        <h2>Get in Touch</h2>
+        <h2>Information Portion</h2>
             <ul>
-                <li>+222-564-5346</li>
+                <li>+92118951600</li>
+                <li>FB,IG & Tiktok</li>
                 <li> <a href="theroyalshoppinghub.com">theroyalshoppinghub.com</a> </li>
+                <li>Royal Sell & Services (SME)</li>
+
             </ul>
         </div>
       </div>
       <hr />
       <p className="footer-copy-right">
-        Copyright 2025 @ theroyalshoppinghub.com.All Right Reserved.
+        Copyright 2020 @ theroyalshoppinghub.com.All Right Reserved.
       </p>
     </div>
   );
