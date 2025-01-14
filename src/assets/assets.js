@@ -125,7 +125,7 @@ export const food_list = [
     price: 12,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Mashroom",
+    category: "Dental in Plants",
   },
   {
     _id: "2",
@@ -134,7 +134,7 @@ export const food_list = [
     price: 18,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Mashroom",
+    category: "Dental in Plants",
   },
   {
     _id: "3",
@@ -143,7 +143,7 @@ export const food_list = [
     price: 16,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Mashroom",
+    category: "Dental in Plants",
   },
   {
     _id: "4",
@@ -152,7 +152,7 @@ export const food_list = [
     price: 24,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Mashroom",
+    category: "Dental in Plants",
   },
   {
     _id: "5",
@@ -161,7 +161,7 @@ export const food_list = [
     price: 14,
     // description:
     //   "Food provides essential nutrients for overall health and well-being",
-    category: "Garments",
+    category: "Hard Crafts,Local Clothes",
   },
   {
     _id: "6",
@@ -170,7 +170,7 @@ export const food_list = [
     price: 12,
     // description:
     //   "Food provides essential nutrients for overall health and well-being",
-    category: "Garments",
+    category: "Hard Crafts,Local Clothes",
   },
   {
     _id: "7",
@@ -179,7 +179,7 @@ export const food_list = [
     price: 20,
     // description:
     //   "Food provides essential nutrients for overall health and well-being",
-    category: "Garments",
+    category: "Hard Crafts,Local Clothes",
   },
   {
     _id: "8",
@@ -188,7 +188,7 @@ export const food_list = [
     price: 15,
     // description:
     //   "Food provides essential nutrients for overall health and well-being",
-    category: "Garments",
+    category: "Hard Crafts,Local Clothes",
   },
   {
     _id: "9",
@@ -233,7 +233,7 @@ export const food_list = [
     price: 12,
     // description:
     //   "Food provides essential nutrients for overall health and well-being",
-    category: "Vahicles",
+    category: "Vahicles(spear parts)",
   },
   {
     _id: "14",
@@ -242,7 +242,7 @@ export const food_list = [
     price: 18,
     // description:
     //   "Food provides essential nutrients for overall health and well-being",
-    category: "Vahicles",
+    category: "Vahicles(spear parts)",
   },
   {
     _id: "15",
@@ -251,7 +251,7 @@ export const food_list = [
     price: 16,
     // description:
     //   "Food provides essential nutrients for overall health and well-being",
-    category: "Vahicles",
+    category: "Vahicles(spear parts)",
   },
   {
     _id: "16",
@@ -260,7 +260,7 @@ export const food_list = [
     price: 24,
     // description:
     //   "Food provides essential nutrients for overall health and well-being",
-    category: "Vahicles",
+    category: "Vahicles(spear parts)",
   },
   {
     _id: "29",
@@ -269,7 +269,7 @@ export const food_list = [
     price: 14,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Dry Fruits",
+    category: "Dry Fruits & Natural Herbs",
   },
   {
     _id: "30",
@@ -278,7 +278,7 @@ export const food_list = [
     price: 12,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Dry Fruits",
+    category: "Dry Fruits & Natural Herbs",
   },
   {
     _id: "31",
@@ -287,7 +287,7 @@ export const food_list = [
     price: 20,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Dry Fruits",
+    category: "Dry Fruits & Natural Herbs",
   },
   {
     _id: "32",
@@ -296,7 +296,7 @@ export const food_list = [
     price: 15,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Dry Fruits",
+    category: "Dry Fruits & Natural Herbs",
   },
 ];
 
