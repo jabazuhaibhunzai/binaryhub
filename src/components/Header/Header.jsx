@@ -7,7 +7,7 @@ const Header = () => {
       <div className="header-contents">
         <h2>PRODUCTS FOR THE SOUL</h2>
         <p>Breathing new life into cultural craft </p>
-        <button>Shop now</button>
+        {/* <button>Shop now</button> */}
       </div>
     </div>
   )
