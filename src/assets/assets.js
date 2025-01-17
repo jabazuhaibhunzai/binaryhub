@@ -2,7 +2,7 @@ import basket_icon from "./basket_icon.png";
 import logo from "./logo.png";
 import header_img from "./header_img.jpg";
 import search_icon from "./search_icon.png";
-import menu_1 from "./menu_1.jpg";
+import menu_1 from "./menu_1 (1).png";
 import menu_2 from "./menu_2.jpg";
 import menu_3 from "./menu_3.jpg";
 import menu_4 from "./menu_4.jpg";
@@ -11,14 +11,19 @@ import menu_4 from "./menu_4.jpg";
 // import menu_7 from './menu_7.png'
 import menu_8 from "./menu_8.png";
 
-import food_1 from "./food_1.png";
-import food_2 from "./food_2.png";
-import food_3 from "./food_3.png";
-import food_4 from "./food_4.png";
-import food_5 from "./food_5.jpg";
-import food_6 from "./food_6.jpg";
-import food_7 from "./food_7.jpg";
-import food_8 from "./food_8.png";
+// import dryfood_1 from "./dryfood_1.jpg";
+// import dryfood_2 from "./dryfood_2.jpg";
+// import dryfood_3 from "./dryfood_3.jpg";
+// import dryfood_4 from "./dryfood_4.jpg";
+
+import food_1 from "./food_1 (2).png";
+import food_2 from "./food_2 (2).png";
+import food_3 from "./food_3 (2).png";
+import food_4 from "./food_4 (2).png";
+import food_5 from "./food_5 (3).jpg";
+import food_6 from "./food_6 (2).jpg";
+import food_7 from "./food_7 (2).jpg";
+import food_8 from "./food_8.jpg";
 import food_9 from "./food_9.jpg";
 import food_10 from "./food_10.jpg";
 import food_11 from "./food_11.jpg";
@@ -27,22 +32,14 @@ import food_13 from "./food_13.png";
 import food_14 from "./food_14.png";
 import food_15 from "./food_15.png";
 import food_16 from "./food_16.png";
-import food_17 from "./food_17.png";
-import food_18 from "./food_18.png";
-import food_19 from "./food_19.png";
-import food_20 from "./food_20.png";
-import food_21 from "./food_21.png";
-import food_22 from "./food_22.png";
-import food_23 from "./food_23.png";
-import food_24 from "./food_24.png";
-import food_25 from "./food_25.png";
-import food_26 from "./food_26.png";
-import food_27 from "./food_27.png";
-import food_28 from "./food_28.png";
-import food_29 from "./food_29.png";
-import food_30 from "./food_30.png";
-import food_31 from "./food_31.png";
-import food_32 from "./food_32.png";
+import food_29 from "./food_29.jpg";
+import food_30 from "./food_30.jpg";
+import food_31 from "./food_31.jpg";
+import food_32 from "./food_32.jpg";
+import e1  from "./e1.png";
+import e2  from "./e2.png";
+import e3  from "./e3.png";
+import e4  from "./e4.png";
 
 import add_icon_white from "./add_icon_white.png";
 import add_icon_green from "./add_icon_green.png";
@@ -120,72 +117,108 @@ export const menu_list = [
 export const food_list = [
   {
     _id: "1",
-    name: "Edible mushrooms",
+    name: "Prosthetic kit ",
     image: food_1,
-    price: 12,
+    price: "70000" ,
     description:
       "Food provides essential nutrients for overall health and well-being",
     category: "Dental in Plants",
   },
   {
     _id: "2",
-    name: "Edible mushrooms",
+    name: "Conical Link System",
     image: food_2,
-    price: 18,
+    price: 55000,
     description:
       "Food provides essential nutrients for overall health and well-being",
     category: "Dental in Plants",
   },
   {
     _id: "3",
-    name: "Edible mushrooms",
+    name: "Conical Connection",
     image: food_3,
-    price: 16,
+    price: 40000,
     description:
       "Food provides essential nutrients for overall health and well-being",
     category: "Dental in Plants",
   },
   {
     _id: "4",
-    name: "Edible mushrooms",
+    name: "Surgical kit (Basic)",
     image: food_4,
-    price: 24,
+    price: 70000,
+    description:
+      "Food provides essential nutrients for overall health and well-being",
+    category: "Dental in Plants",
+  },
+  {
+    _id: "e5",
+    name: "Impression Components ",
+    image: e1,
+    price: 3000,
+    description:
+      "Food provides essential nutrients for overall health and well-being",
+    category: "Dental in Plants",
+  },
+  {
+    _id: "e6",
+    name: "Surgical kit Zygomatic",
+    image: e2,
+    price: 100000,
+    description:
+      "Food provides essential nutrients for overall health and well-being",
+    category: "Dental in Plants",
+  },
+  {
+    _id: "e7",
+    name: "Surgical kit (Basic)",
+    image: e3,
+    price: 70000,
+    description:
+      "Food provides essential nutrients for overall health and well-being",
+    category: "Dental in Plants",
+  },
+  {
+    _id: "e8",
+    name: "Surgical kit (Basic)",
+    image: e4,
+    price: 70000,
     description:
       "Food provides essential nutrients for overall health and well-being",
     category: "Dental in Plants",
   },
   {
     _id: "5",
-    name: "Lasagna Rolls",
+    name: "Female Round neck Half Sleeves Sweater",
     image: food_5,
-    price: 14,
+    price: 1000,
     // description:
     //   "Food provides essential nutrients for overall health and well-being",
     category: "Hard Crafts,Local Clothes",
   },
   {
     _id: "6",
-    name: "Peri Peri Rolls",
+    name: "Gents Royal Blue Spiral Pattern Sweater ",
     image: food_6,
-    price: 12,
+    price: 699,
     // description:
     //   "Food provides essential nutrients for overall health and well-being",
     category: "Hard Crafts,Local Clothes",
   },
   {
     _id: "7",
-    name: "Chicken Rolls",
+    name: "Female Brown Knitted Jacket Sleeves Sweater",
     image: food_7,
-    price: 20,
+    price: 1000,
     // description:
     //   "Food provides essential nutrients for overall health and well-being",
     category: "Hard Crafts,Local Clothes",
   },
   {
     _id: "8",
-    name: "Veg Rolls",
+    name: "Black Woolen Female Shirt Pattern Sweater",
     image: food_8,
-    price: 15,
+    price: 1200,
     // description:
     //   "Food provides essential nutrients for overall health and well-being",
     category: "Hard Crafts,Local Clothes",
@@ -194,7 +227,7 @@ export const food_list = [
     _id: "9",
     name: "X-Ray",
     image: food_9,
-    price: 14,
+    price: 800,
     // description:
     //   "Food provides essential nutrients for overall health and well-being",
     category: "Electronics",
@@ -203,7 +236,7 @@ export const food_list = [
     _id: "10",
     name: "Cremona",
     image: food_10,
-    price: 22,
+    price: 1200,
     // description:
     //   "Food provides essential nutrients for overall health and well-being",
     category: "Electronics",
@@ -212,7 +245,7 @@ export const food_list = [
     _id: "11",
     name: "Microphone",
     image: food_11,
-    price: 10,
+    price: 1000,
     // description:
     //   "Food provides essential nutrients for overall health and well-being",
     category: "Electronics",
@@ -221,16 +254,16 @@ export const food_list = [
     _id: "12",
     name: "Keyboard",
     image: food_12,
-    price: 12,
+    price: 10000,
     // description:
     //   "Food provides essential nutrients for overall health and well-being",
     category: "Electronics",
   },
   {
     _id: "13",
-    name: "Transportatiom",
+    name: "Transportatiom ",
     image: food_13,
-    price: 12,
+    price: 7000,
     // description:
     //   "Food provides essential nutrients for overall health and well-being",
     category: "Vahicles(spear parts)",
@@ -239,65 +272,101 @@ export const food_list = [
     _id: "14",
     name: "Repairing Vahicles",
     image: food_14,
-    price: 18,
+    price: 6000,
     // description:
     //   "Food provides essential nutrients for overall health and well-being",
     category: "Vahicles(spear parts)",
   },
   {
     _id: "15",
-    name: "Leadership",
+    name: "Conical Connection",
     image: food_15,
-    price: 16,
+    price: 4000,
     // description:
     //   "Food provides essential nutrients for overall health and well-being",
     category: "Vahicles(spear parts)",
   },
   {
     _id: "16",
-    name: "Autonomous Technology",
+    name: "Leadership",
     image: food_16,
-    price: 24,
+    price: 8000,
     // description:
     //   "Food provides essential nutrients for overall health and well-being",
     category: "Vahicles(spear parts)",
   },
   {
     _id: "29",
-    name: "Fruit Dilemma",
+    name: "Autonomous Technology",
     image: food_29,
-    price: 14,
+    price: 800,
     description:
       "Food provides essential nutrients for overall health and well-being",
     category: "Dry Fruits & Natural Herbs",
   },
   {
     _id: "30",
-    name:"Fruit Dilemma",
+    name:"Pine Nuts",
     image: food_30,
-    price: 12,
+    price: 500,
     description:
       "Food provides essential nutrients for overall health and well-being",
     category: "Dry Fruits & Natural Herbs",
   },
   {
     _id: "31",
-    name: "Fruit Dilemma",
+    name: "Almonds",
     image: food_31,
-    price: 20,
+    price: 6,
     description:
       "Food provides essential nutrients for overall health and well-being",
     category: "Dry Fruits & Natural Herbs",
   },
   {
     _id: "32",
-    name: "Fruit Dilemma",
+    name: "Shilajeet",
     image: food_32,
-    price: 15,
+    price: 6,
     description:
       "Food provides essential nutrients for overall health and well-being",
     category: "Dry Fruits & Natural Herbs",
   },
+  // {
+  //   _id: "33",
+  //   name: "Shilajeet",
+  //   image: dryfood_1,
+  //   price: 6,
+  //   description:
+  //     "Food provides essential nutrients for overall health and well-being",
+  //   category: "Dry Fruits & Natural Herbs",
+  // }
+  // {
+  //   _id: "34",
+  //   name: "Shilajeet",
+  //   image: dryfood_2,
+  //   price: 6,
+  //   description:
+  //     "Food provides essential nutrients for overall health and well-being",
+  //   category: "Dry Fruits & Natural Herbs",
+  // },
+  // {
+  //   _id: "35",
+  //   name: "Shilajeet",
+  //   image: dryfood_3,
+  //   price: 6,
+  //   description:
+  //     "Food provides essential nutrients for overall health and well-being",
+  //   category: "Dry Fruits & Natural Herbs",
+  // },
+  // {
+  //   _id: "36",
+  //   name: "Shilajeet",
+  //   image: dryfood_4,
+  //   price: 6,
+  //   description:
+  //     "Food provides essential nutrients for overall health and well-being",
+  //   category: "Dry Fruits & Natural Herbs",
+  // },
 ];
 
 //  {
