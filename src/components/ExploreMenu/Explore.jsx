@@ -5,14 +5,14 @@ import { menu_list } from "../../assets/assets";
 const Explore = ({ category, setCategory }) => {
   return (
     <div className="explore-menu" id="explore-menu">
-      <h1>Explore our Catigary</h1>
+      <h1>Explore our Category</h1>
       <p className="explore-menu-text">
-        {/* Choose from a driverse menu feauring a delectable arry of dishes.Our
-        mission is to sarisfy your craving and elevate your dining
-        experience,one delicious meal at a time. */}
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus vel
-        similique ad? Placeat perferendis nemo aliquam quo dicta a itaque?
-        Sapiente atque illum excepturi commodi! deserunt.
+      
+        Discover a wide range of categories tailored to meet your needs. Whether
+        you're looking for the latest trends, timeless classics, or niche
+        specialties, we have something for everyone. Dive in and explore curated
+        collections designed to inspire and delight. Start your journey today
+        and find exactly what you're looking for!
       </p>
       <div className="Explore-menu-list">
         {menu_list.map((item, index) => {

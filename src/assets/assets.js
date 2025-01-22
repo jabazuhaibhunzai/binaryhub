@@ -8,13 +8,22 @@ import menu_3 from "./menu_3.jpg";
 import menu_4 from "./menu_4.jpg";
 // import menu_5 from './menu_5.png'
 // import menu_6 from './menu_6.png'
-// import menu_7 from './menu_7.png'
+import menu_7 from './menu_7.jpg'
 import menu_8 from "./menu_8.png";
 
-// import dryfood_1 from "./dryfood_1.jpg";
-// import dryfood_2 from "./dryfood_2.jpg";
-// import dryfood_3 from "./dryfood_3.jpg";
-// import dryfood_4 from "./dryfood_4.jpg";
+import mashroom_1 from "./dryfood_1.jpg";
+import mashroom_2 from "./dryfood_2.png";
+import mashroom_3 from "./dryfood_3.jpg";
+import mashroom_4 from "./dryfood_4.jpg";
+import mashroom_5 from "./dryfood_5.jpg";
+import mashroom_6 from "./plant1.jpg";
+import mashroom_7 from "./plant2.jpg";
+import mashroom_8 from "./plant3.jpg";
+import mashroom_9 from "./plant4.jpg";
+import mashroom_10 from "./plant5.jpg";
+import mashroom_11 from "./plant6.jpg";
+import mashroom_12 from "./dryfood_5.jpg";
+
 
 import food_1 from "./food_1 (2).png";
 import food_2 from "./food_2 (2).png";
@@ -24,6 +33,21 @@ import food_5 from "./food_5 (3).jpg";
 import food_6 from "./food_6 (2).jpg";
 import food_7 from "./food_7 (2).jpg";
 import food_8 from "./food_8.jpg";
+
+import Garments_1 from "./dress1.jpg";
+import Garments_2 from "./dress2.jpg";
+import Garments_3 from "./dress3.jpg";
+import Garments_4 from "./dress4.jpg";
+import Garments_5 from "./dress5.jpg";
+import Garments_6 from "./dress6.jpg";
+import Garments_7 from "./dress7.jpg";
+import Garments_8 from "./dress8.jpg";
+import Garments_9 from "./dress9.jpg";
+import Garments_10 from "./dress10.jpg";
+import Garments_11 from "./dress11.jpg";
+import Garments_12 from "./dress12.jpg";
+
+
 import food_9 from "./food_9.jpg";
 import food_10 from "./food_10.jpg";
 import food_11 from "./food_11.jpg";
@@ -36,6 +60,10 @@ import food_29 from "./food_29.jpg";
 import food_30 from "./food_30.jpg";
 import food_31 from "./food_31.jpg";
 import food_32 from "./food_32.jpg";
+import food_33 from "./dry1.jpg";
+import food_34 from "./dry2.jpg";
+import food_35 from "./dry3.jpg";
+import food_36 from "./dry4.jpg";
 import e1  from "./e1.png";
 import e2  from "./e2.png";
 import e3  from "./e3.png";
@@ -104,12 +132,12 @@ export const menu_list = [
   //     menu_name: "Pure Veg",
   //     menu_image: menu_6
   // },
-  // {
-  //     menu_name: "Pasta",
-  //     menu_image: menu_7
-  // },
   {
-    menu_name: "Dry Fruits & Natural Herbs",
+      menu_name: "Mashroom & Natural Herbs",
+      menu_image: menu_7
+  },
+  {
+    menu_name: "Dry Fruits",
     menu_image: menu_8,
   },
 ];
@@ -120,8 +148,7 @@ export const food_list = [
     name: "Prosthetic kit ",
     image: food_1,
     price: "70000" ,
-    description:
-      "Food provides essential nutrients for overall health and well-being",
+    // description:"Food provides essential nutrients for overall health and well-being",
     category: "Dental in Plants",
   },
   {
@@ -129,8 +156,7 @@ export const food_list = [
     name: "Conical Link System",
     image: food_2,
     price: 55000,
-    description:
-      "Food provides essential nutrients for overall health and well-being",
+    // description:"Food provides essential nutrients for overall health and well-being",
     category: "Dental in Plants",
   },
   {
@@ -138,8 +164,7 @@ export const food_list = [
     name: "Conical Connection",
     image: food_3,
     price: 40000,
-    description:
-      "Food provides essential nutrients for overall health and well-being",
+    // description:"Food provides essential nutrients for overall health and well-being",
     category: "Dental in Plants",
   },
   {
@@ -147,8 +172,7 @@ export const food_list = [
     name: "Surgical kit (Basic)",
     image: food_4,
     price: 70000,
-    description:
-      "Food provides essential nutrients for overall health and well-being",
+    // description:"Food provides essential nutrients for overall health and well-being",
     category: "Dental in Plants",
   },
   {
@@ -156,8 +180,7 @@ export const food_list = [
     name: "Impression Components ",
     image: e1,
     price: 3000,
-    description:
-      "Food provides essential nutrients for overall health and well-being",
+    // description:"Food provides essential nutrients for overall health and well-being",
     category: "Dental in Plants",
   },
   {
@@ -165,8 +188,7 @@ export const food_list = [
     name: "Surgical kit Zygomatic",
     image: e2,
     price: 100000,
-    description:
-      "Food provides essential nutrients for overall health and well-being",
+    // description: "Food provides essential nutrients for overall health and well-being",
     category: "Dental in Plants",
   },
   {
@@ -174,8 +196,7 @@ export const food_list = [
     name: "Surgical kit (Basic)",
     image: e3,
     price: 70000,
-    description:
-      "Food provides essential nutrients for overall health and well-being",
+    // description:"Food provides essential nutrients for overall health and well-being",
     category: "Dental in Plants",
   },
   {
@@ -183,46 +204,170 @@ export const food_list = [
     name: "Surgical kit (Basic)",
     image: e4,
     price: 70000,
-    description:
-      "Food provides essential nutrients for overall health and well-being",
+    // description:"Food provides essential nutrients for overall health and well-being",
     category: "Dental in Plants",
   },
+
+
+  // Garments
+
+
   {
-    _id: "5",
+    _id: "1",
     name: "Female Round neck Half Sleeves Sweater",
     image: food_5,
-    price: 1000,
+    price: 3000,
+    // description:
+    //   "Food provides essential nutrients for overall health and well-being",
+    category: "Hard Crafts,Local Clothes",
+  },
+  {
+    _id: "2",
+    name: "Gents Royal Blue Spiral Pattern Sweater ",
+    image: food_6,
+    price: 4000,
+    // description:
+    //   "Food provides essential nutrients for overall health and well-being",
+    category: "Hard Crafts,Local Clothes",
+  },
+  {
+    _id: "3",
+    name: "Female Brown Knitted Jacket Sleeves Sweater",
+    image: food_7,
+    price: 3000,
+    // description:
+    //   "Food provides essential nutrients for overall health and well-being",
+    category: "Hard Crafts,Local Clothes",
+  },
+  {
+    _id: "4",
+    name: "Black Woolen Female Shirt Pattern Sweater",
+    image: food_8,
+    price: 3000,
+    // description:
+    //   "Food provides essential nutrients for overall health and well-being",
+    category: "Hard Crafts,Local Clothes",
+  },
+
+
+  {
+    _id: "5",
+    name: "Gents Brown Plain Sleeves Sweater",
+    image: Garments_1,
+    price: 3000,
     // description:
     //   "Food provides essential nutrients for overall health and well-being",
     category: "Hard Crafts,Local Clothes",
   },
   {
     _id: "6",
-    name: "Gents Royal Blue Spiral Pattern Sweater ",
-    image: food_6,
-    price: 699,
+    name: "Maroon Half Sleeves Sweater ",
+    image: Garments_2,
+    price: 2500,
     // description:
     //   "Food provides essential nutrients for overall health and well-being",
     category: "Hard Crafts,Local Clothes",
   },
   {
     _id: "7",
-    name: "Female Brown Knitted Jacket Sleeves Sweater",
-    image: food_7,
-    price: 1000,
+    name: "Female Long Coat Design Sweater",
+    image: Garments_3,
+    price: 5000,
     // description:
     //   "Food provides essential nutrients for overall health and well-being",
     category: "Hard Crafts,Local Clothes",
   },
   {
     _id: "8",
-    name: "Black Woolen Female Shirt Pattern Sweater",
-    image: food_8,
-    price: 1200,
+    name: "Traditional Handmade Female Hat ",
+    image: Garments_4,
+    price: 2000,
     // description:
     //   "Food provides essential nutrients for overall health and well-being",
     category: "Hard Crafts,Local Clothes",
   },
+
+
+  {
+    _id: "9",
+    name: "Female Round neck Half Sweater",
+    image: Garments_5,
+    price: 3000,
+    // description:
+    //   "Food provides essential nutrients for overall health and well-being",
+    category: "Hard Crafts,Local Clothes",
+  },
+  {
+    _id: "10",
+    name: "Female Gray Round Neck Sweater  ",
+    image: Garments_6,
+    price: 5000,
+    // description:
+    //   "Food provides essential nutrients for overall health and well-being",
+    category: "Hard Crafts,Local Clothes",
+  },
+  {
+    _id: "11",
+    name: "Female mini–Sweater Flower Pattern",
+    image: Garments_7,
+    price: 2500,
+    // description:
+    //   "Food provides essential nutrients for overall health and well-being",
+    category: "Hard Crafts,Local Clothes",
+  },
+  {
+    _id: "12",
+    name: "Greyish Vertico Full Sleeve Sweater",
+    image: Garments_8,
+    price: 4000,
+    // description:
+    //   "Food provides essential nutrients for overall health and well-being",
+    category: "Hard Crafts,Local Clothes",
+  },
+
+
+  {
+    _id: "13",
+    name: "Full Sleeve Sweater Mixed Color Pattern",
+    image: Garments_9,
+    price: 4000,
+    // description:
+    //   "Food provides essential nutrients for overall health and well-being",
+    category: "Hard Crafts,Local Clothes",
+  },
+  {
+    _id: "14",
+    name: "Full Sleeve Oceanic Sweater ",
+    image: Garments_10,
+    price: 3000,
+    // description:
+    //   "Food provides essential nutrients for overall health and well-being",
+    category: "Hard Crafts,Local Clothes",
+  },
+  {
+    _id: "15",
+    name: "Sleeveless Mixed Colored Mini Sweater",
+    image: Garments_11,
+    price: 4000,
+    // description:
+    //   "Food provides essential nutrients for overall health and well-being",
+    category: "Hard Crafts,Local Clothes",
+  },
+  {
+    _id: "16",
+    name: "Female Handmade Jacket",
+    image: Garments_12,
+    price: 3500,
+    // description:
+    //   "Food provides essential nutrients for overall health and well-being",
+    category: "Hard Crafts,Local Clothes",
+  },
+
+
+
+// Electronic category
+
+
   {
     _id: "9",
     name: "X-Ray",
@@ -295,78 +440,170 @@ export const food_list = [
     //   "Food provides essential nutrients for overall health and well-being",
     category: "Vahicles(spear parts)",
   },
+
+  
+
+// Dry fruit
+
   {
     _id: "29",
     name: "Autonomous Technology",
     image: food_29,
-    price: 800,
-    description:
-      "Food provides essential nutrients for overall health and well-being",
-    category: "Dry Fruits & Natural Herbs",
+    price: 4500,
+    // description:"Food provides essential nutrients for overall health and well-being",
+    category: "Dry Fruits",
   },
   {
     _id: "30",
     name:"Pine Nuts",
     image: food_30,
-    price: 500,
-    description:
-      "Food provides essential nutrients for overall health and well-being",
-    category: "Dry Fruits & Natural Herbs",
+    price: 10000,
+    // description:"Food provides essential nutrients for overall health and well-being",
+    category: "Dry Fruits",
   },
   {
     _id: "31",
     name: "Almonds",
     image: food_31,
-    price: 6,
-    description:
-      "Food provides essential nutrients for overall health and well-being",
-    category: "Dry Fruits & Natural Herbs",
+    price: 1200,
+    // description:"Food provides essential nutrients for overall health and well-being",
+    category: "Dry Fruits",
   },
   {
     _id: "32",
     name: "Shilajeet",
     image: food_32,
-    price: 6,
-    description:
-      "Food provides essential nutrients for overall health and well-being",
-    category: "Dry Fruits & Natural Herbs",
+    price: 1400,
+    // description:"Food provides essential nutrients for overall health and well-being",
+    category: "Dry Fruits",
   },
-  // {
-  //   _id: "33",
-  //   name: "Shilajeet",
-  //   image: dryfood_1,
-  //   price: 6,
-  //   description:
-  //     "Food provides essential nutrients for overall health and well-being",
-  //   category: "Dry Fruits & Natural Herbs",
-  // }
-  // {
-  //   _id: "34",
-  //   name: "Shilajeet",
-  //   image: dryfood_2,
-  //   price: 6,
-  //   description:
-  //     "Food provides essential nutrients for overall health and well-being",
-  //   category: "Dry Fruits & Natural Herbs",
-  // },
-  // {
-  //   _id: "35",
-  //   name: "Shilajeet",
-  //   image: dryfood_3,
-  //   price: 6,
-  //   description:
-  //     "Food provides essential nutrients for overall health and well-being",
-  //   category: "Dry Fruits & Natural Herbs",
-  // },
-  // {
-  //   _id: "36",
-  //   name: "Shilajeet",
-  //   image: dryfood_4,
-  //   price: 6,
-  //   description:
-  //     "Food provides essential nutrients for overall health and well-being",
-  //   category: "Dry Fruits & Natural Herbs",
-  // },
+
+  {
+    _id: "33",
+    name: " Honey",
+    image: food_33,
+    price: 5500,
+    // description:"Food provides essential nutrients for overall health and well-being",
+    category: "Dry Fruits",
+  },
+  {
+    _id: "34",
+    name:"Peach Jam",
+    image: food_34,
+    price: 1200,
+    // description:"Food provides essential nutrients for overall health and well-being",
+    category: "Dry Fruits",
+  },
+  {
+    _id: "35",
+    name: "Dried Cherry",
+    image: food_35,
+    price: 1250,
+    // description:"Food provides essential nutrients for overall health and well-being",
+    category: "Dry Fruits",
+  },
+  {
+    _id: "36",
+    name: "Apricot oil",
+    image: food_36,
+    price: 1400,
+    // description:"Food provides essential nutrients for overall health and well-being",
+    category: "Dry Fruits",
+  },
+
+
+  // Mashroo categoty
+ 
+  {
+        _id: "17",
+        name: "Marsh Orchid",
+        image: mashroom_1,
+        price: 300,
+        // description: "Food provides essential nutrients for overall health and well-being",
+        category: "Mashroom & Natural Herbs"
+    }, {
+        _id: "18",
+        name: "Marsh Orchid ",
+        image: mashroom_2,
+        price: 350,
+        // description: "Food provides essential nutrients for overall health and well-being",
+        category: "Mashroom & Natural Herbs"
+    }, {
+        _id: "19",
+        name: "Marsh Orchid ",
+        image: mashroom_3,
+        price: 250,
+        // description: "Food provides essential nutrients for overall health and well-being",
+        category: "Mashroom & Natural Herbs"
+    }, {
+        _id: "20",
+        name: "Marsh Orchid ",
+        image: mashroom_4,
+        price: 300,
+        // description: "Food provides essential nutrients for overall health and well-being",
+        category: "Mashroom & Natural Herbs"
+     },
+  {
+        _id: "17",
+        name: "Mainatho",
+        image: mashroom_5,
+        price: 5500,
+        // description: "Food provides essential nutrients for overall health and well-being",
+        category: "Mashroom & Natural Herbs"
+    }, {
+        _id: "18",
+        name: "Dot bachia  ",
+        image: mashroom_6,
+        price: 250,
+        // description: "Food provides essential nutrients for overall health and well-being",
+        category: "Mashroom & Natural Herbs"
+    }, {
+        _id: "19",
+        name: "Daice pizei",
+        image: mashroom_7,
+        price: 4000,
+        // description: "Food provides essential nutrients for overall health and well-being",
+        category: "Mashroom & Natural Herbs"
+    }, {
+        _id: "20",
+        name: "Thoim",
+        image: mashroom_8,
+        price: 5000,
+        // description: "Food provides essential nutrients for overall health and well-being",
+        category: "Mashroom & Natural Herbs"
+     },
+     {
+        _id: "20",
+        name: "Makhoit",
+        image: mashroom_9,
+        price: 5500,
+        // description: "Food provides essential nutrients for overall health and well-being",
+        category: "Mashroom & Natural Herbs"
+     },
+     {
+        _id: "20",
+        name: "Woodland Sage",
+        image: mashroom_10,
+        price: 250,
+        // description: "Food provides essential nutrients for overall health and well-being",
+        category: "Mashroom & Natural Herbs"
+     },
+     {
+        _id: "20",
+        name: "Dot bachia  ",
+        image: mashroom_11,
+        price: 250,
+        // description: "Food provides essential nutrients for overall health and well-being",
+        category: "Mashroom & Natural Herbs"
+     },
+     {
+        _id: "20",
+        name: "Mainatho",
+        image: mashroom_12,
+        price: 5500,
+        // description: "Food provides essential nutrients for overall health and well-being",
+        category: "Mashroom & Natural Herbs"
+     },
 ];
 
 //  {
@@ -376,35 +613,7 @@ export const food_list = [
 //     price: 24,
 //     description: "Food provides essential nutrients for overall health and well-being",
 //     category: "Vahicles"
-// }, {
-//     _id: "17",
-//     name: "Cup Cake",
-//     image: food_17,
-//     price: 14,
-//     description: "Food provides essential nutrients for overall health and well-being",
-//     category: "Cake"
-// }, {
-//     _id: "18",
-//     name: "Vegan Cake",
-//     image: food_18,
-//     price: 12,
-//     description: "Food provides essential nutrients for overall health and well-being",
-//     category: "Cake"
-// }, {
-//     _id: "19",
-//     name: "Butterscotch Cake",
-//     image: food_19,
-//     price: 20,
-//     description: "Food provides essential nutrients for overall health and well-being",
-//     category: "Cake"
-// }, {
-//     _id: "20",
-//     name: "Sliced Cake",
-//     image: food_20,
-//     price: 15,
-//     description: "Food provides essential nutrients for overall health and well-being",
-//     category: "Cake"
-// }, {
+// },, {
 //     _id: "21",
 //     name: "Garlic Mushroom ",
 //     image: food_21,

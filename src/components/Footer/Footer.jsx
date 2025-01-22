@@ -22,7 +22,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="footer-content-center">
-            <h2>Company</h2>
+            <h2>Compony</h2>
             <ul>
                 <li>Home</li>
                 <li>About us</li>
@@ -31,12 +31,12 @@ const Footer = () => {
             </ul>
         </div>
         <div className="footer-content-Right">
-        <h2>Information Portion</h2>
+        <h2>Contact Us</h2>
             <ul>
                 <li>+92118951600</li>
                 <li>FB,IG & Tiktok</li>
                 <li> <a href="theroyalshoppinghub.com">theroyalshoppinghub.com</a> </li>
-                <li>Royal Sell & Services (SME)</li>
+                <li>Royal Sell & Services (SMC)</li>
 
             </ul>
         </div>
