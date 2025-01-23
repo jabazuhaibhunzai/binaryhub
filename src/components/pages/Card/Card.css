@@ -1,5 +1,5 @@
 .card {
-  margin-top: 100px;
+  margin-top: 130px;
 }
 .card-items-title {
   display: grid;
@@ -7,10 +7,11 @@
   align-items: center;
   color: grey;
   font-size: max(1vw, 12px);
+  height: 10vh;
   
 }
 .card-items-item {
-  margin: 10px 0px;
+  margin: 15px 0px;
 }
 .card-items-item img {
   width: 50px;
@@ -116,3 +117,4 @@
     justify-content: start;
   }
 }
+

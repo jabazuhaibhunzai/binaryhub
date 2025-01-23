@@ -14,14 +14,14 @@ const Card = () => {
   return (
     <div className="card">
       <div className="card-items">
-        <div className="card-items-title">
+        {/* <div className="card-items-title">
           <p>Items</p>
           <p>Title</p>
           <p>Price</p>
           <p>Quantity</p>
           <p>Total price</p>
           <p>Remove</p>
-        </div>
+        </div> */}
         <br />
         <hr />
         {food_list.map((item, index) => {

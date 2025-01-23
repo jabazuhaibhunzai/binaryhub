@@ -13,6 +13,15 @@ a{
   text-decoration: none;
   color: inherit;
 }
+.navbar-div{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  position: fixed;
+  top: 0px;
+  background-color: white;
+  z-index: 1;
+}
 .App{
   width: 80%;
   margin: auto;

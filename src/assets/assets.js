@@ -176,7 +176,7 @@ export const food_list = [
     category: "Dental in Plants",
   },
   {
-    _id: "e5",
+    _id: "5",
     name: "Impression Components ",
     image: e1,
     price: 3000,
@@ -184,7 +184,7 @@ export const food_list = [
     category: "Dental in Plants",
   },
   {
-    _id: "e6",
+    _id: "6",
     name: "Surgical kit Zygomatic",
     image: e2,
     price: 100000,
@@ -192,7 +192,7 @@ export const food_list = [
     category: "Dental in Plants",
   },
   {
-    _id: "e7",
+    _id: "7",
     name: "Surgical kit (Basic)",
     image: e3,
     price: 70000,
@@ -200,7 +200,7 @@ export const food_list = [
     category: "Dental in Plants",
   },
   {
-    _id: "e8",
+    _id: "8",
     name: "Surgical kit (Basic)",
     image: e4,
     price: 70000,
@@ -213,7 +213,7 @@ export const food_list = [
 
 
   {
-    _id: "1",
+    _id: "9",
     name: "Female Round neck Half Sleeves Sweater",
     image: food_5,
     price: 3000,
@@ -222,7 +222,7 @@ export const food_list = [
     category: "Hard Crafts,Local Clothes",
   },
   {
-    _id: "2",
+    _id: "10",
     name: "Gents Royal Blue Spiral Pattern Sweater ",
     image: food_6,
     price: 4000,
@@ -231,7 +231,7 @@ export const food_list = [
     category: "Hard Crafts,Local Clothes",
   },
   {
-    _id: "3",
+    _id: "11",
     name: "Female Brown Knitted Jacket Sleeves Sweater",
     image: food_7,
     price: 3000,
@@ -240,7 +240,7 @@ export const food_list = [
     category: "Hard Crafts,Local Clothes",
   },
   {
-    _id: "4",
+    _id: "12",
     name: "Black Woolen Female Shirt Pattern Sweater",
     image: food_8,
     price: 3000,
@@ -251,7 +251,7 @@ export const food_list = [
 
 
   {
-    _id: "5",
+    _id: "13",
     name: "Gents Brown Plain Sleeves Sweater",
     image: Garments_1,
     price: 3000,
@@ -260,7 +260,7 @@ export const food_list = [
     category: "Hard Crafts,Local Clothes",
   },
   {
-    _id: "6",
+    _id: "14",
     name: "Maroon Half Sleeves Sweater ",
     image: Garments_2,
     price: 2500,
@@ -269,7 +269,7 @@ export const food_list = [
     category: "Hard Crafts,Local Clothes",
   },
   {
-    _id: "7",
+    _id: "15",
     name: "Female Long Coat Design Sweater",
     image: Garments_3,
     price: 5000,
@@ -278,7 +278,7 @@ export const food_list = [
     category: "Hard Crafts,Local Clothes",
   },
   {
-    _id: "8",
+    _id: "16",
     name: "Traditional Handmade Female Hat ",
     image: Garments_4,
     price: 2000,
@@ -289,7 +289,7 @@ export const food_list = [
 
 
   {
-    _id: "9",
+    _id: "17",
     name: "Female Round neck Half Sweater",
     image: Garments_5,
     price: 3000,
@@ -298,7 +298,7 @@ export const food_list = [
     category: "Hard Crafts,Local Clothes",
   },
   {
-    _id: "10",
+    _id: "18",
     name: "Female Gray Round Neck Sweater  ",
     image: Garments_6,
     price: 5000,
@@ -307,7 +307,7 @@ export const food_list = [
     category: "Hard Crafts,Local Clothes",
   },
   {
-    _id: "11",
+    _id: "19",
     name: "Female mini–Sweater Flower Pattern",
     image: Garments_7,
     price: 2500,
@@ -316,7 +316,7 @@ export const food_list = [
     category: "Hard Crafts,Local Clothes",
   },
   {
-    _id: "12",
+    _id: "20",
     name: "Greyish Vertico Full Sleeve Sweater",
     image: Garments_8,
     price: 4000,
@@ -327,7 +327,7 @@ export const food_list = [
 
 
   {
-    _id: "13",
+    _id: "21",
     name: "Full Sleeve Sweater Mixed Color Pattern",
     image: Garments_9,
     price: 4000,
@@ -336,7 +336,7 @@ export const food_list = [
     category: "Hard Crafts,Local Clothes",
   },
   {
-    _id: "14",
+    _id: "22",
     name: "Full Sleeve Oceanic Sweater ",
     image: Garments_10,
     price: 3000,
@@ -345,7 +345,7 @@ export const food_list = [
     category: "Hard Crafts,Local Clothes",
   },
   {
-    _id: "15",
+    _id: "23",
     name: "Sleeveless Mixed Colored Mini Sweater",
     image: Garments_11,
     price: 4000,
@@ -354,7 +354,7 @@ export const food_list = [
     category: "Hard Crafts,Local Clothes",
   },
   {
-    _id: "16",
+    _id: "24",
     name: "Female Handmade Jacket",
     image: Garments_12,
     price: 3500,
@@ -369,7 +369,7 @@ export const food_list = [
 
 
   {
-    _id: "9",
+    _id: "25",
     name: "X-Ray",
     image: food_9,
     price: 800,
@@ -378,7 +378,7 @@ export const food_list = [
     category: "Electronics",
   },
   {
-    _id: "10",
+    _id: "26",
     name: "Cremona",
     image: food_10,
     price: 1200,
@@ -387,7 +387,7 @@ export const food_list = [
     category: "Electronics",
   },
   {
-    _id: "11",
+    _id: "27",
     name: "Microphone",
     image: food_11,
     price: 1000,
@@ -396,7 +396,7 @@ export const food_list = [
     category: "Electronics",
   },
   {
-    _id: "12",
+    _id: "28",
     name: "Keyboard",
     image: food_12,
     price: 10000,
@@ -405,7 +405,7 @@ export const food_list = [
     category: "Electronics",
   },
   {
-    _id: "13",
+    _id: "29",
     name: "Transportatiom ",
     image: food_13,
     price: 7000,
@@ -414,7 +414,7 @@ export const food_list = [
     category: "Vahicles(spear parts)",
   },
   {
-    _id: "14",
+    _id: "30",
     name: "Repairing Vahicles",
     image: food_14,
     price: 6000,
@@ -423,7 +423,7 @@ export const food_list = [
     category: "Vahicles(spear parts)",
   },
   {
-    _id: "15",
+    _id: "31",
     name: "Conical Connection",
     image: food_15,
     price: 4000,
@@ -432,7 +432,7 @@ export const food_list = [
     category: "Vahicles(spear parts)",
   },
   {
-    _id: "16",
+    _id: "32",
     name: "Leadership",
     image: food_16,
     price: 8000,
@@ -446,7 +446,7 @@ export const food_list = [
 // Dry fruit
 
   {
-    _id: "29",
+    _id: "33",
     name: "Autonomous Technology",
     image: food_29,
     price: 4500,
@@ -454,7 +454,7 @@ export const food_list = [
     category: "Dry Fruits",
   },
   {
-    _id: "30",
+    _id: "34",
     name:"Pine Nuts",
     image: food_30,
     price: 10000,
@@ -462,7 +462,7 @@ export const food_list = [
     category: "Dry Fruits",
   },
   {
-    _id: "31",
+    _id: "35",
     name: "Almonds",
     image: food_31,
     price: 1200,
@@ -470,7 +470,7 @@ export const food_list = [
     category: "Dry Fruits",
   },
   {
-    _id: "32",
+    _id: "36",
     name: "Shilajeet",
     image: food_32,
     price: 1400,
@@ -479,7 +479,7 @@ export const food_list = [
   },
 
   {
-    _id: "33",
+    _id: "37",
     name: " Honey",
     image: food_33,
     price: 5500,
@@ -487,7 +487,7 @@ export const food_list = [
     category: "Dry Fruits",
   },
   {
-    _id: "34",
+    _id: "38",
     name:"Peach Jam",
     image: food_34,
     price: 1200,
@@ -495,7 +495,7 @@ export const food_list = [
     category: "Dry Fruits",
   },
   {
-    _id: "35",
+    _id: "39",
     name: "Dried Cherry",
     image: food_35,
     price: 1250,
@@ -503,7 +503,7 @@ export const food_list = [
     category: "Dry Fruits",
   },
   {
-    _id: "36",
+    _id: "40",
     name: "Apricot oil",
     image: food_36,
     price: 1400,
@@ -515,28 +515,28 @@ export const food_list = [
   // Mashroo categoty
  
   {
-        _id: "17",
+        _id: "41",
         name: "Marsh Orchid",
         image: mashroom_1,
         price: 300,
         // description: "Food provides essential nutrients for overall health and well-being",
         category: "Mashroom & Natural Herbs"
     }, {
-        _id: "18",
+        _id: "42",
         name: "Marsh Orchid ",
         image: mashroom_2,
         price: 350,
         // description: "Food provides essential nutrients for overall health and well-being",
         category: "Mashroom & Natural Herbs"
     }, {
-        _id: "19",
+        _id: "43",
         name: "Marsh Orchid ",
         image: mashroom_3,
         price: 250,
         // description: "Food provides essential nutrients for overall health and well-being",
         category: "Mashroom & Natural Herbs"
     }, {
-        _id: "20",
+        _id: "44",
         name: "Marsh Orchid ",
         image: mashroom_4,
         price: 300,
@@ -544,28 +544,28 @@ export const food_list = [
         category: "Mashroom & Natural Herbs"
      },
   {
-        _id: "17",
+        _id: "45",
         name: "Mainatho",
         image: mashroom_5,
         price: 5500,
         // description: "Food provides essential nutrients for overall health and well-being",
         category: "Mashroom & Natural Herbs"
     }, {
-        _id: "18",
+        _id: "46",
         name: "Dot bachia  ",
         image: mashroom_6,
         price: 250,
         // description: "Food provides essential nutrients for overall health and well-being",
         category: "Mashroom & Natural Herbs"
     }, {
-        _id: "19",
+        _id: "47",
         name: "Daice pizei",
         image: mashroom_7,
         price: 4000,
         // description: "Food provides essential nutrients for overall health and well-being",
         category: "Mashroom & Natural Herbs"
     }, {
-        _id: "20",
+        _id: "48",
         name: "Thoim",
         image: mashroom_8,
         price: 5000,
@@ -573,7 +573,7 @@ export const food_list = [
         category: "Mashroom & Natural Herbs"
      },
      {
-        _id: "20",
+        _id: "49",
         name: "Makhoit",
         image: mashroom_9,
         price: 5500,
@@ -581,7 +581,7 @@ export const food_list = [
         category: "Mashroom & Natural Herbs"
      },
      {
-        _id: "20",
+        _id: "50",
         name: "Woodland Sage",
         image: mashroom_10,
         price: 250,
@@ -589,7 +589,7 @@ export const food_list = [
         category: "Mashroom & Natural Herbs"
      },
      {
-        _id: "20",
+        _id: "51",
         name: "Dot bachia  ",
         image: mashroom_11,
         price: 250,
@@ -597,7 +597,7 @@ export const food_list = [
         category: "Mashroom & Natural Herbs"
      },
      {
-        _id: "20",
+        _id: "52",
         name: "Mainatho",
         image: mashroom_12,
         price: 5500,

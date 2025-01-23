@@ -12,8 +12,11 @@ function App() {
   return (
     <>
     {showLogin?<LoginPopup setShowLogin={setShowLogin}/>:<></>}
+    <div className="navbar-div">
+    <Navbar setShowLogin={setShowLogin} />
+    </div>
+
       <div className="App">
-        <Navbar setShowLogin={setShowLogin} />
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/Card" element={<Card />} />

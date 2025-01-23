@@ -6,6 +6,7 @@
 .explore-menu h1{
     color: #262626;
     font-weight: 500;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
 .explore-menu-text{
     max-width: 60%;

@@ -1,8 +1,10 @@
 .navbar{
-    padding-top: 15px;
+    padding: 13px 0px;
     display: flex;
     justify-content:space-between;
     align-items: center ;
+    width: 80%;
+   
  
 }
 .logo{
