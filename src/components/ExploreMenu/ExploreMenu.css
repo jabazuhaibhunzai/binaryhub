@@ -62,5 +62,6 @@ padding: 2px;
     }
     .Explore-menu-list img{
         min-width: 120px;
+        height: 125px;
     }
 }
