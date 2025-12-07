@@ -18,7 +18,7 @@ const Footer = () => {
           <div className="footer-social-icon">
             <img src={assets.facebook_icon} alt="" />
             <img src={assets.twitter_icon} alt="" />
-            <img src={assets.linkedin_icon} alt="" />
+            <a href="https://www.linkedin.com/in/zuhaib-abbas-6a459b356/np"><img src={assets.linkedin_icon } alt="" /></a>
           </div>
         </div>
         <div className="footer-content-center">
@@ -33,9 +33,9 @@ const Footer = () => {
         <div className="footer-content-Right">
         <h2>Contact Us</h2>
             <ul>
-                <li>+92118951600</li>
-                <li>FB,IG & Tiktok</li>
-                <li> <a href="theroyalshoppinghub.com">theroyalshoppinghub.com</a> </li>
+                <li>+92160884030</li>
+                <li>Jan Trader</li>
+                <li> <a href="theroyalshoppinghub.com">zuhaibabbas022@gmail.com</a> </li>
                 <li>Royal Sell & Services (SMC)</li>
 
             </ul>
